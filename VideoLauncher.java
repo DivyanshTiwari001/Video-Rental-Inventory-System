@@ -4,8 +4,8 @@ public class VideoLauncher {
     int MAX_CAPACITY = 10;
     public void showMenu(){
         System.out.println("MAIN MENU");
-        System.out.println("-".repeat(8));
-        System.out.println("-".repeat(8));
+        System.out.println("-".repeat(9));
+        System.out.println("-".repeat(9));
         System.out.println("1. Add Video : ");
         System.out.println("2. Check Out Video : ");
         System.out.println("3. Return Video : ");
